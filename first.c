@@ -22,7 +22,7 @@ int main()
     int d = 9;
     printf("the value of d is %d \n", d);
     printf("the sum of a and d is %d \n", a + d);
-printf("the subtraction of a and d is %d \n", a - d);
+    printf("the subtraction of a and d is %d \n", a - d);
 
     //'a'  ---> A Character
     printf("My first program is awesome");
