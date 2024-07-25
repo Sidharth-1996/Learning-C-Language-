@@ -1,0 +1,1 @@
+// False  *(s+2) will refer to thethrd element of the array
