@@ -1,12 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int a=10;
-    if(a=11){
-        printf("I am 11");
-    }
-    else{
-        printf("I am not 11");
-    }
+    int a=5;
+    int *b=&a;
+    printf("The address of a is %u\n",b);
+    printf("The value of a is %d",*b);
     return 0;
 }
